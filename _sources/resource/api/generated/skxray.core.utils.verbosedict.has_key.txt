@@ -1,0 +1,6 @@
+skxray.core.utils.verbosedict.has_key
+=====================================
+
+.. currentmodule:: skxray.core.utils
+
+.. automethod:: verbosedict.has_key
