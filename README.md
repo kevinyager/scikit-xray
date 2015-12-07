@@ -3,7 +3,7 @@
 [![Join the chat at https://gitter.im/scikit-xray/scikit-xray](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/scikit-xray/scikit-xray?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # scikit-xray
-test of changing file
+test of changing file... more change
 
 **[Documentation] (http://scikit-xray.github.io/scikit-xray/)**
 
